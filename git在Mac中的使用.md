@@ -154,4 +154,6 @@ __第一次好像要输入你的GitHub账号和密码，__
 $ git push origin master
 ~~~
 
+###pod 镜像更换
+gem sources -a https://gems.ruby-china.org/
 OK！！！
